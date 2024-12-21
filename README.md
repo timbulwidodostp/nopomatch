@@ -1,6 +1,8 @@
 # nopomatch
 Implement Nopo's decomposition (Decomposition of Nopo (2008)) Use nopomatch With STATA 18
 
+https://www.youtube.com/watch?v=OiIj1L1n4zM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
